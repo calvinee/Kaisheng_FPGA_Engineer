@@ -1,2 +1,4 @@
-# ICbreaker_FPGA
-“笨方法学FPGA”项目代码库，快速入门FPGA，IC开发，主要使用Verilog HDL开发
+# 记录工程师日常的参考资料和心得
+# FPGA工程师百宝箱
+# 真实经验积累
+# 工程师造万物
